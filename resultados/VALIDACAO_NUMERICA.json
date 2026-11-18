@@ -1,0 +1,7 @@
+{
+  "OLS_lstsq_QR": "conferido em todos modelos",
+  "CR1_pseudoinversa_diferenca_max": 1.151925776987639e-13,
+  "HC3_pseudoinversa_diferenca_max": 4.9578396943417147e-14,
+  "referencias_alternativas_mesmos_ajustados": true,
+  "VIF_max_referencia_municipal_SP": 4.008870804799511
+}
